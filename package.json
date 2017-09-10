@@ -1,0 +1,11 @@
+{
+  "name": "@filestore/s3",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "node-filestore/s3",
+  "dependencies": {
+    "aws-sdk": "^2.112.0",
+    "into-stream": "^3.1.0",
+    "is-stream": "^1.1.0"
+  }
+}
